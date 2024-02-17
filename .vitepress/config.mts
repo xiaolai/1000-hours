@@ -43,7 +43,11 @@ export default withMermaid(
 
       sidebar: [
         {
-          text: '简要说明', link: '/intro',
+          text: '简要说明', collapsed: true, link: '/intro',
+          items: [
+            { text: '1. 要不要健脑？', link: '/why' },
+            { text: '2. 什么最健脑？', link: '/what' },
+          ]
         },
         {
           text: '训练任务', collapsed: true,
