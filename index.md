@@ -22,7 +22,7 @@ hero:
       link: /in-the-brain/01-inifinite
     - theme: brand
       text: 自我训练
-      link: /in-the-brain/01-inifinite
+      link: /in-the-brain/00-intro
     # - theme: alt
     #   text: API Examples
     #   link: /api-examples
