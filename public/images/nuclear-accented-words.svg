@@ -3,7 +3,7 @@
     <title>nuclear-accented-words</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="nuclear-accented-words">
-            <g id="Marianna-made-the-ma" transform="translate(60, 100)" fill="#000000" fill-rule="nonzero" font-family="CourierNewPSMT, Courier New" font-size="20" font-weight="normal">
+            <g id="Marianna-made-the-ma" transform="translate(60, 100)" fill="#000000" fill-rule="nonzero" font-family="Tahoma" font-size="20" font-weight="normal">
                 <text>
                     <tspan x="0" y="17">Marianna made the marmalade…</tspan>
                 </text>
@@ -30,13 +30,13 @@
                 </text>
             </g>
             <line x1="113.5" y1="130.5" x2="113.5" y2="155.5" id="Line-2" stroke="#979797" stroke-linecap="square"></line>
-            <g id="H*" transform="translate(108, 163)" fill="#000000" fill-rule="nonzero" font-family="CourierNewPSMT, Courier New" font-size="14" font-weight="normal">
+            <g id="H*" transform="translate(108, 163)" fill="#000000" fill-rule="nonzero" font-family="Tahoma" font-size="14" font-weight="normal">
                 <text>
                     <tspan x="0" y="15">H*</tspan>
                 </text>
             </g>
             <line x1="291.5" y1="130.5" x2="291.5" y2="155.5" id="Line-2-Copy" stroke="#979797" stroke-linecap="square"></line>
-            <g id="H*-Copy" transform="translate(288, 163)" fill="#000000" fill-rule="nonzero" font-family="CourierNewPSMT, Courier New" font-size="14" font-weight="normal">
+            <g id="H*-Copy" transform="translate(288, 163)" fill="#000000" fill-rule="nonzero" font-family="Tahoma" font-size="14" font-weight="normal">
                 <text id="H*">
                     <tspan x="0" y="15">H*</tspan>
                 </text>
