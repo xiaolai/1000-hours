@@ -66,7 +66,11 @@
 
 不要害怕自己的笨拙。
 
-大家都一样，刚开始的时候就是很吃力，就是很生硬 —— 并且，这种笨拙必然要持续相当长一段时间…… 哪怕感觉上已经熟练，还是需要继续练习的 —— 做什么都一样。TED 上有一个讲座，Benjamin Zander 讲 [The transformative power of classical music](https://www.ted.com/talks/benjamin_zander_the_transformative_power_of_classical_music/transcript?language=en)，提到说 “没有人是音盲（*tune deaf*）” 所以每个人都可以练习演奏 —— 这很重要…… 不过，值得你在这里听听的是他模仿了不同时期孩子弹钢琴的情况，从生硬到熟练…… 
+大家都一样，刚开始的时候就是很吃力，就是很生硬 —— 并且，这种笨拙必然要持续相当长一段时间…… 哪怕感觉上已经熟练，还是需要继续练习的 —— 做什么都一样。
+
+上一步中的**音素级分析**，在这一步中开始发挥作用，因为你可以注意到每一个细节。而后的过程，漫长且又难过 —— **短时间内足量重复** —— 要在大脑里创建新连接强化新连接，创建新网络强化新网络，防止旧连接旧网络被启用，防止近似连接近似网络劫持操作…… 时时刻刻感觉到自己的笨拙，苦恼于做不到、做不好 —— **非常难过，但必需忍受**。
+
+TED 上有一个讲座，Benjamin Zander 讲 [The transformative power of classical music](https://www.ted.com/talks/benjamin_zander_the_transformative_power_of_classical_music/transcript?language=en)，提到说 “没有人是音盲（*tune deaf*）” 所以每个人都可以练习演奏 —— 这很重要…… 不过，值得你在这里听听的是他模仿了不同时期孩子弹钢琴的情况，从生硬到熟练…… 
 
 <audio controls><source src="/audios/benjamin-zander-on-kids-playing-piano.mp3"></source></audio>
 
