@@ -10,7 +10,7 @@
 
 既然 “所有自然语音都以音节为最基础单位”，那么 “把相邻的音节处理明白而后说清楚” 原本就是基础。
 
-比如，前后两个词在音上的连读现象（*catenation*）：*clean up*，前一个音节末尾的 `n` 和后一个元音开头的音节 `ʌp` 听起来像是同一个音节，到最后听起来是 `kli ˈnʌp`<span class="speak-word-inline" data-audio-uk="/audios/clean-up-uk.mp3" data-audio-us="/audios/clean-up-us.mp3"></span> —— 之所以如此，关键就在于，所有自然语音都以音节为最基础单位。
+比如，前后两个词在音上的连读现象（*catenation*）：*clean up*，前一个音节末尾的 `n` 和后一个元音开头的音节 `/ʌp/` 听起来像是同一个音节，到最后听起来是 `/kli ˈnʌp/`<span class="speak-word-inline" data-audio-uk="/audios/clean-up-uk.mp3" data-audio-us="/audios/clean-up-us.mp3"></span> —— 之所以如此，关键就在于，所有自然语音都以音节为最基础单位。
 
 而又因为连贯的语音，往往还带着高低起伏（[3.3](#3.3.-高低)，[3.4](#3.4.-起伏)），有着轻重缓急（[3.5](#3.5.-轻重)，[3.6](#3.6.-缓急)），于是在这个过程中某些因素会自然发生一些变化，甚至变体，简直不可能更自然了。
 
@@ -31,18 +31,18 @@
 
 以下是 *[Friends](https://www.imdb.com/title/tt0108778/) S01E01* 里 *Joey* 说的一句话：
 
-> *Come on... you're going out with the guy... there's got to be something wrong with him.*<span class="speak-word-inline" data-audio-us="/audios/friends-s01e01-joey.mp3"></span>
+> *Come on... you're going out with the guy... there's got to be something wrong with him.*
 >
-> `kʌm ʌn... jʊ-ar goʊɪŋ aʊt wɪθ ðə gaɪ... ðez gɒt tʊ biː ˈsʌmθɪŋ rɔŋ wɪθ hɪm.`
+> <span class="speak-word-inline" data-audio-us="/audios/friends-s01e01-joey.mp3"></span>`kʌm ʌn... jʊ-ar goʊɪŋ aʊt wɪθ ðə gaɪ... ðez gɒt tʊ biː ˈsʌmθɪŋ rɔŋ wɪθ hɪm.`
 
 短短一句话之中有很多细节需要注意 —— 当然，你现在应该大多都能理解：
 
-> * *Come on*，连起来了，说成 `ˈkə·ˈmɑːn`，*Joey* 当然是美式发音，美国人的 `ʌ` 基本上干脆就是 `ə`，`ʌn` 是重音，所以被拉长了，听起来是 `ɑː`（[3.5](34-strong-weak)）；
-> * *you're* `jʊ-ar`，会有 `w` 的加音，但，很轻，需要仔细分辨才听得出来：`jʊ war`（ [2.2.13](25-jw)）；
-> * *going out*，`goʊɪŋ aʊt` 中 `ŋ` 说成了 `n`（[2.2.3](15-mn)），与后面的音节连起来，`goʊwɪ·naʊt`，这里也有个 `w` 的加音（ [2.2.13](25-jw)）；
-> * *with the*，`wɪθ ðə`，`θ· ð` 两个相近的辅音叠在一起，前一个只剩下了停顿，`wɪ·ðə`（[2.2.5.2](17-td#_2-2-5-2-叠音)）；
-> * *got to*，`gɒt tʊ`，两个 `t` 叠在一起，前一个只剩下了停顿（[2.2.5.2](17-td#_2-2-5-2-叠音)），后面的 `to` 被弱读（[3.5](34-strong-weak)）成了 `tə`，甚至听起来像是单独的 `t`： `gɒ·t(ə)`；
-> * *something*, 说的是 `ˈsəmθɪn`（[2.2.3](15-mn)）；
-> * *with him*，`h` 被击穿（[2.2.8](20-h)），说成了 `wɪ·θɪm`……
+> * *Come on*，连起来了，说成 `/ˈkə·ˈmɑːn/`，*Joey* 当然是美式发音，美国人的 `ʌ` 基本上干脆就是 `ə`，`ʌn` 是重音，所以被拉长了，听起来是 `ɑː`（[3.5](34-strong-weak)）；
+> * *you're* `/jʊ-ar/`，会有 `w` 的加音，但，很轻，需要仔细分辨才听得出来：`/jʊ war/`（ [2.2.13](25-jw)）；
+> * *going out*，`/goʊɪŋ aʊt/` 中 `ŋ` 说成了 `n`（[2.2.3](15-mn)），与后面的音节连起来，`/goʊwɪ·naʊt/`，这里也有个 `w` 的加音（ [2.2.13](25-jw)）；
+> * *with the*，`/wɪθ ðə/`，`θ· ð` 两个相近的辅音叠在一起，前一个只剩下了停顿，`/wɪ·ðə/`（[2.2.5.2](17-td#_2-2-5-2-叠音)）；
+> * *got to*，`/gɒt tʊ/`，两个 `t` 叠在一起，前一个只剩下了停顿（[2.2.5.2](17-td#_2-2-5-2-叠音)），后面的 `to` 被弱读（[3.5](34-strong-weak)）成了 `/tə/`，`t` 还是弹舌音（[2.2.5.4](17-td#_2-2-5-4-弹舌音)）： `/gɒ·t̬(ə)/`；  
+> * *something*, 说的是 `/ˈsəmθɪn/`（[2.2.3](15-mn)）；
+> * *with him*，`h` 被击穿（[2.2.8](20-h)），说成了 `/wɪ·θəm/`……
 
 等到你完整理解 [3. 进阶](29-advanced) 之后，你可能还会注意到另外一些更重要的细节（比如以上例子中两次提到的 [3.5](34-strong-weak)。
