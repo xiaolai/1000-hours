@@ -14,31 +14,31 @@
                     <line x1="0.5" y1="0.5" x2="400.5" y2="569.5" id="Line-2"></line>
                     <line x1="400.5" y1="0.5" x2="600.5" y2="569.5" id="Line-3"></line>
                 </g>
-                <text id="ɪ" font-family="Tahoma" font-size="32" font-weight="normal" fill="#000000">
+                <text id="ɪ" font-family="Sauce Code Pro" font-size="32" font-weight="normal" fill="#000000">
                     <tspan x="251" y="127">ɪ</tspan>
                 </text>
-                <text id="e" font-family="Tahoma" font-size="32" font-weight="normal" fill="#000000">
+                <text id="e" font-family="Sauce Code Pro" font-size="32" font-weight="normal" fill="#000000">
                     <tspan x="386" y="315">e</tspan>
                 </text>
-                <text id="æ" font-family="Tahoma" font-size="32" font-weight="normal" fill="#000000">
+                <text id="æ" font-family="Sauce Code Pro" font-size="32" font-weight="normal" fill="#000000">
                     <tspan x="651" y="692">æ</tspan>
                 </text>
-                <text id="ə" font-family="Tahoma" font-size="32" font-weight="normal" fill="#000000">
+                <text id="ə" font-family="Sauce Code Pro" font-size="32" font-weight="normal" fill="#000000">
                     <tspan x="753" y="410">ə</tspan>
                 </text>
-                <text id="ʌ" font-family="Tahoma" font-size="32" font-weight="normal" fill="#000000">
+                <text id="ʌ" font-family="Sauce Code Pro" font-size="32" font-weight="normal" fill="#000000">
                     <tspan x="1053" y="504">ʌ</tspan>
                 </text>
-                <text id="ɔ" font-family="Tahoma" font-size="32" font-weight="normal" fill="#000000">
+                <text id="ɔ" font-family="Sauce Code Pro" font-size="32" font-weight="normal" fill="#000000">
                     <tspan x="1053" y="695">ɔ</tspan>
                 </text>
-                <text id="u" font-family="Tahoma" font-size="32" font-weight="normal" fill="#000000">
+                <text id="u" font-family="Sauce Code Pro" font-size="32" font-weight="normal" fill="#000000">
                     <tspan x="1053" y="127">u</tspan>
                 </text>
-                <text id="High" font-family="Tahoma" font-size="32" font-weight="normal" fill="#000000">
+                <text id="High" font-family="Sauce Code Pro" font-size="32" font-weight="normal" fill="#000000">
                     <tspan x="619" y="84">High</tspan>
                 </text>
-                <text id="Back" transform="translate(1099, 392) rotate(90) translate(-1099, -392)" font-family="Tahoma" font-size="32" font-weight="normal" fill="#000000">
+                <text id="Back" transform="translate(1099, 392) rotate(90) translate(-1099, -392)" font-family="Sauce Code Pro" font-size="32" font-weight="normal" fill="#000000">
                     <tspan x="1050.5" y="402.5">Back</tspan>
                 </text>
             </g>
