@@ -72,7 +72,17 @@
   --vp-font-family-base: 'SF Pro SC','SF Pro Text','SF Pro Icons','PingFang SC','Helvetica Neue', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Helvetica, Arial, sans-serif;
   /* --vp-font-family-mono: sans-serif, 'SauceCodePro Nerd Font Mono', 'Courier New'; */
   --vp-font-family-mono: 'SauceCodePro Nerd Font Mono', Arial, sans-serif, 'Courier New';
+
+  --vp-c-text-strong: rgb(63 86 99);
+  --vp-c-text-em: rgb(91, 4, 17);
+
 }
+
+.dark {
+  --vp-c-text-strong: rgb(138, 183, 209);
+  --vp-c-text-em: rgb(187, 121, 131);
+}
+
 
 body {
   font-size: 16px;
@@ -146,39 +156,42 @@ body {
 }
 
 
-.vp-doc p img, .vp-doc p video {
-  margin: 0 auto;
-}
+.vp-doc {
 
-.vp-doc blockquote > p{
-  font-size: 16px;
-}
+  p img, p video {
+    margin: 0 auto;
+  }
 
-.vp-doc .custom-block {
-  font-size: 16px;
-}
+  blockquote > p{
+    font-size: 16px;
+  }
 
-strong, b {
-  color: rgb(63 86 99);
-  font-weight: bold;
-}
+  .custom-block {
+    font-size: 16px;
+  }
 
-em, i {
-  color: rgb(91, 4, 17);
-}
+  strong, b {
+    color: var(--vp-c-text-strong);
+    font-weight: bold;
+  }
 
-svg {
-  font-family: --vp-font-family-mono;
-}
+  em, i {
+    color: var(--vp-c-text-em);
+  }
 
-mjx-container {
-  display: inline-block;
-  margin: auto 1px -4px;
-}
+  svg {
+    font-family: --vp-font-family-mono;
+  }
+
+  mjx-container {
+    display: inline-block;
+    margin: auto 1px -4px;
+  }
 
 
-.vp-doc sup {
-  vertical-align: top;
-  position: relative;
-  top: -0.5em;
+  sup {
+    vertical-align: top;
+    position: relative;
+    top: -0.5em;
+  }
 }

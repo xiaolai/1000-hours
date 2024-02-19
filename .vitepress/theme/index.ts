@@ -4,7 +4,7 @@ import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import SpeakWord from './components/SpeakWord.vue'
 import MyLayout from './layouts/index.vue'
-import './style.css'
+import './style.scss'
 
 export default {
   extends: DefaultTheme,
