@@ -35,6 +35,9 @@ const props = defineProps({
   audioUk: {
     type: String,
   },
+  audioOther: {
+    type: String,
+  },
   pos: {
     type: String,
   },
@@ -43,8 +46,10 @@ const props = defineProps({
 const svgUrl = (accent) => {
   if (accent === 'uk') {
     return '/images/speaker-brown.svg';
+  } else if (accent === 'us') {
+    return '/images/speaker-blue.svg';
   }
-  return '/images/speaker-blue.svg';
+  return '/images/speaker-black.svg';
 }
 
 const audioPathUS = computed(() => {
@@ -61,6 +66,13 @@ const audioPathUK = computed(() => {
   return getAudioPath(props.word, "uk")
 });
 
+const audioPathOther = computed(() => {
+  if (props.audioUk) {
+    return props.audioUk;
+  }
+  return getAudioPath(props.word, "other")
+});
+
 const audios = computed(() => {
   const ret:any = [];
   if (audioPathUS.value) {
@@ -68,6 +80,9 @@ const audios = computed(() => {
   }
   if (audioPathUK.value) {
     ret.push({ label: 'uk', audio: audioPathUK.value});
+  }
+  if (audioPathOther.value) {
+    ret.push({ label: 'other', audio: audioPathOther.value});
   }
   return ret;
 });

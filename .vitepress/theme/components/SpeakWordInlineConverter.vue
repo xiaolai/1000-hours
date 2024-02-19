@@ -22,10 +22,14 @@ function buildPlayButton(parent, accent, url) {
   audioEl.setAttribute('controls', 'false')
   const iconEl = document.createElement('img');
   iconEl.classList.add('icon');
-  let svg = '/images/speaker-blue.svg';
+
+  let svg = '/images/speaker-black.svg';
   if (accent === 'uk') {
     svg = '/images/speaker-brown.svg';
+  } else if (accent === 'us') {
+    svg = '/images/speaker-blue.svg';
   }
+
   iconEl.setAttribute('src', svg)
   iconEl.innerText = accent.toUpperCase();
 
@@ -47,7 +51,8 @@ function convertToInlineComponent(el) {
   }
   const dataAudioUs = el.getAttribute('data-audio-us')
   const dataAudioUk = el.getAttribute('data-audio-uk')
-  console.log('inline component', dataAudioUs, dataAudioUk)
+  const dataAudioOther = el.getAttribute('data-audio-other')
+  console.log('inline component', dataAudioUs, dataAudioUk, dataAudioOther)
 
   const wrapperEl = document.createElement('div')
   wrapperEl.classList.add('speak-word-wrapper')
@@ -55,7 +60,7 @@ function convertToInlineComponent(el) {
   canEl.classList.add('speak-word')
   canEl.classList.add('inline')
 
-  if (dataAudioUk || dataAudioUs) {
+  if (dataAudioUk || dataAudioUs || dataAudioOther) {
     const ctrlEl = document.createElement('div')
     ctrlEl.classList.add('ctrl')
     const ctrlPartEl = document.createElement('div')
@@ -64,12 +69,21 @@ function convertToInlineComponent(el) {
       buildPlayButton(ctrlPartEl, 'us', dataAudioUs)
     }
     ctrlEl.append(ctrlPartEl);
+
     const ctrlPartEl2 = document.createElement('div')
     ctrlPartEl2.classList.add('ctrl-part')
     if (dataAudioUk) {
       buildPlayButton(ctrlPartEl2, 'uk', dataAudioUk)
     }
     ctrlEl.append(ctrlPartEl2);
+
+    const ctrlPartEl3 = document.createElement('div')
+    ctrlPartEl3.classList.add('ctrl-part')
+    if (dataAudioOther) {
+      buildPlayButton(ctrlPartEl3, 'other', dataAudioOther)
+    }
+    ctrlEl.append(ctrlPartEl3);
+
     canEl.append(ctrlEl)
   }
   wrapperEl.append(canEl)
