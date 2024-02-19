@@ -18,7 +18,9 @@
 
 ![](/images/nuclear-accented-words.svg)
 
-除了少数词汇会被**强读** 之外，还会有很多词汇会被**弱读**。
+被**强读**的词汇之中，重音音节往往带着**声调** —— 升、降、平、降升（[3.4](33-up-down)）。并且，少数重音音节会有被拔高的音高（[3.3](32-high-low)）。这些都是自然语流的韵律（*prosody*）格外重要的组成部分，包括接下来要讲述的**弱读**，也是跟读模仿时的重点之一。
+
+另外，除了少数词汇会被**强读** 之外，还会有很多词汇会被**弱读**。
 
 以下是 TOEFL 听力录音中第一篇中的前两个句子，请注意同一个单词 “**community**” 第一次出现和第二次出现时的具体不同：
 
@@ -28,11 +30,11 @@
 
 这段录音中所有被强读的词汇在以下的文本中被加重标记（而没有标记的，就是被弱读的）：
 
-> **Community** **service** is an **important** **component** of **education** **here** at our **university**. We **encourage** **all** **students** to **volunteer** for at **least** **one** community **activity** **before** they **graduate**.
+> **Community** **service** is an **important** **component** of **education** here at our **university**. We **encourage** **all** **students** to **volunteer** for at **least** **one** community **activity** **before** they **graduate**.
 
 自然语音中，会有大量的常见词汇会被**弱读** —— 尤其是那些最常见的单音节词汇。
 
-各种语言都有这种现象，主要原因可能是因为 “太常见”、“太容易理解”、“相对于不那么重要” 等等的原因，乃至于说话者在说那些词汇（或者 “音节”）的时候会 “更快” 或者 “更轻”，甚至 “省略” 或者 “合并”…… 
+各种语言都有这种现象，主要原因可能是因为**太常见**、**太容易理解**、**不可能被误解**、**相对于不那么重要**等等诸如此类的原因，乃至于说话者在说那些**词汇**（或者**音节**）的时候会**更快**或者**更轻**，甚至**合并**或者**省略**。 
 
 北京人在说 “不知道” 这三个字的时候，有可能说出来的是用拼音都很难标记的 `bù(r)dào`，其中原本应该的 `zhī` 被糊弄成了甚至好像没有韵母的 `r`…… 但，谁都听得懂，哪怕最初不习惯，听个两三次也就适应了。
 
