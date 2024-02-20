@@ -1,5 +1,4 @@
-# 1000 Hours with Attention Paid
+**this repo has been archived**.
 
-This is the repo of [1000h.org](https://1000h.org).
+**Please visit** [https://github.com/xiaolai/everyone-can-use-english/tree/main/1000-hours](https://github.com/xiaolai/everyone-can-use-english/tree/main/1000-hours)
 
-By paying your attention into 1000 hours, you can master anything you need.
